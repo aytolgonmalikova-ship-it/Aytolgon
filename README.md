@@ -6,7 +6,17 @@
 
 ⸻
 
-✨ About me 
+✨ About me
+
+🌷 A dreamer with a developer’s mindset.
+
+💻 Learning to turn ideas into reality through code.
+
+🌱 Exploring HTML, CSS, JavaScript & React.
+
+✨ Small steps, big dreams, endless possibilities.
+
+🚀 My journey is just beginning…
 
 🛠️ Technologies I’m Learning
 
