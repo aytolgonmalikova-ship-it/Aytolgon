@@ -6,11 +6,7 @@
 
 ⸻
 
-✨ About Me
-
-* 🌱 Currently learning HTML, CSS, JavaScript & React
-* 💡 Love turning ideas into beautiful web experiences
-* 🚀 Working towards becoming a Frontend 
+✨ About me 
 
 🛠️ Technologies I’m Learning
 
