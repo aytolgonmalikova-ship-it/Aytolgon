@@ -10,8 +10,7 @@
 
 * 🌱 Currently learning HTML, CSS, JavaScript & React
 * 💡 Love turning ideas into beautiful web experiences
-* 🚀 Working towards becoming a Frontend Developer
-* 🌷 Growing every day, one line of code at a time
+* 🚀 Working towards becoming a Frontend 
 
 🛠️ Technologies I’m Learning
 
