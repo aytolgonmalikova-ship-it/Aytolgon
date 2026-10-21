@@ -24,7 +24,7 @@
 
 🎯 My Goal
 
-To create useful, beautiful web applications and never stop learning.
+To create useful, beautiful web applications and never stop learning🔥
 
 ⸻
 
